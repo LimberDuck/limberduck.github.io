@@ -1,0 +1,10 @@
+= limberduck.github.io
+:stylesdir: stylesheets
+:stylesheet: asciidoc-style-limberduck.css
+:nofooter:
+:docinfo1:
+:sectanchors:
+
+== cheat sheets
+
+- https://limberduck.github.io/nessus-cheat-sheet/[Nessus Cheat Sheet]
